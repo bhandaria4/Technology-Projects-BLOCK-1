@@ -1,0 +1,4 @@
+               total        used        free      shared  buff/cache   available
+Mem:           905Mi       643Mi        68Mi        28Mi       275Mi       261Mi
+Swap:          904Mi       300Mi       604Mi
+Memory allocation time: 0.890799116999915
