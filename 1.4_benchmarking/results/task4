@@ -1,0 +1,5 @@
+iperf3 -s
+
+iperf3 -c <server-ip>
+ping <server-ip> -c 30
+
